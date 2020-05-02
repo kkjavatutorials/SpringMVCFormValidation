@@ -18,7 +18,11 @@ import com.infotech.model.Student;
 import com.infotech.model.StudentCredential;
 import com.infotech.service.StudentService;
 
-// KK JavaTutorials --Author name
+/**
+ * 
+ * @author Kishan Kumar
+ *
+ */
 @Controller
 public class MyController {
 	
